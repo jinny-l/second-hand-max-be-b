@@ -1,6 +1,6 @@
-package kr.codesquad.secondhand.global.config;
+package kr.codesquad.secondhand.global;
 
-import kr.codesquad.secondhand.global.filter.CorsFilter;
+import kr.codesquad.secondhand.global.CorsFilter;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
